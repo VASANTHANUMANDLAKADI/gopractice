@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+
 func main(){
 	
 	conferenceName := "Go conference"
